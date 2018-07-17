@@ -20,7 +20,7 @@
 
 ## Camera
 
-2. Main Camera
+1. Main Camera
 
 	* Background
 		* Game Scene의 배경색을 바꿔줌 
