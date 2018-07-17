@@ -27,6 +27,6 @@
 
 	* Projection
 		* Perspective
-			 원근법을 적용하여 보여줌 
+			 >원근법을 적용하여 보여줌 
 		* Orthographic 
-			 원근법을 적용시키지 않고 보여줌
+			 >원근법을 적용시키지 않고 보여줌
