@@ -104,7 +104,7 @@ Create Project
 		다양한 해상도 Test
 
 * Game View Toolbar
-		![GameViewToolbar](images/GameViewToolbar.png)	
+		![GameViewToolbar](images/GameViewToolbar.PNG)	
 		
 		1. 게임 재생 (Ctrl + P)
 		2. 일시정지 (Ctrl + Shift + P)
