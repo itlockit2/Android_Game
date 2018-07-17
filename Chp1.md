@@ -78,16 +78,42 @@ Create Project
 		번호 순서로 Layer를 지정했다 하였을 때 1번 Layer가 가장 아래로 가며 큰 번호일 수록 가장 나중에 그려짐 (맨 위에 있음) 
 		같은 Type의 GameObejct인 경우 Sorting Layer가 아닌 Order in Layer를 통해 조절 
 		
+4. Scene View
+		![Scene View](C:\Users\KJM\Desktop\MarkDownImage/SceneView.png)		
+
+		실질적으로 게임을 제작하는 공간 
+		GameObject를 배치
 		
+* Scene View Toolbar
+		![SceneToolbar](C:\Users\KJM\Desktop\MarkDownImage/SceneToolbar.png)		
+
+		1. 씬 뷰 이동 (Q)
+		2. 위치 이동 (W)
+		3. 물체 회전 (E)
+		4. 크기 변경 (R) 
+		5. 사각 툴 (T) - 1, 2, 3, 4 모든 기능 제공
+
+* Gizmo	
+
+		Scene View에서 내가 보이게 할 것과 보이지 않게 할 것 설정이 가능 
+
+5. Game View
+		![Game View](C:\Users\KJM\Desktop\MarkDownImage/GameView.png)		
+
+		현재 Scene이 실제로 작동하는 모습을 보여주는 View
+		다양한 해상도 Test
+
+* Game View Toolbar
+		![GameViewToolbar](C:\Users\KJM\Desktop\MarkDownImage/GameViewToolbar.png)	
 		
+		1. 게임 재생 (Ctrl + P)
+		2. 일시정지 (Ctrl + Shift + P)
+		3. 한 프레임 앞으로 (Ctrl + Alt + P)
 		
+* Maximaze On Play
+
+		재생 시 최대 화면으로 Play시켜 줌
 		
+* Mute Audio
 		
-		
-		
-		
-		
-		
-		
-		
-		
+		Play시 Sound Off
