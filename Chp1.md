@@ -17,7 +17,7 @@ Create Project
 	 Game View 
 
 1. Project View
-		![Project View](C:\Users\KJM\Desktop\MarkDownImage/ProjectView.png)
+		![Project View](images/ProjectView.png)
 
 		 게임에 사용되는 Asset들을 관리하는 창 
 		 윈도우의 탐색기와 비슷한 역할 
@@ -29,13 +29,13 @@ Create Project
 		Asset 창에서 마우스 우클릭 후 Create를 통해서 만듬
 		Import를 시키는 경우는 파일을 Drag & Drop을 통해 간단히 넣어줄 수 있음 
 * Asset Search 
-		![Search View](C:\Users\KJM\Desktop\MarkDownImage/AssetSearch.png)
+		![Search View](images/AssetSearch.png)
 		
 			
 		어떤 특정한 타입만을 보고 싶은 경우 검색창 오른쪽 버튼( Search By Type )을 통해 특정한 Type만 검색 가능 
 
 2. Hierarchy View
-		![Hierarchy View](C:\Users\KJM\Desktop\MarkDownImage/HierarchyView.png)
+		![Hierarchy View](images/HierarchyView.png)
 		
 		 현재 Scene에 사용되는 GameObject를 관리하는 View
 		 새로운 GameObject를 생성 / 삭제
@@ -55,7 +55,7 @@ Create Project
  		Transform 속성을 그대로 따라가게 됨 
 		
 3. Inspector View
-		![Inspector View](C:\Users\KJM\Desktop\MarkDownImage/InspectorView.png)
+		![Inspector View](images/InspectorView.png)
 		
 		현재 선택한 GameObject 또는 Asset의 정보를 보여주는 부분 
 		Component 추가 / 삭제 / 변경
@@ -79,13 +79,13 @@ Create Project
 		같은 Type의 GameObejct인 경우 Sorting Layer가 아닌 Order in Layer를 통해 조절 
 		
 4. Scene View
-		![Scene View](C:\Users\KJM\Desktop\MarkDownImage/SceneView.png)		
+		![Scene View](images/SceneView.png)		
 
 		실질적으로 게임을 제작하는 공간 
 		GameObject를 배치
 		
 * Scene View Toolbar
-		![SceneToolbar](C:\Users\KJM\Desktop\MarkDownImage/SceneToolbar.png)		
+		![SceneToolbar](images/SceneToolbar.png)		
 
 		1. 씬 뷰 이동 (Q)
 		2. 위치 이동 (W)
@@ -98,13 +98,13 @@ Create Project
 		Scene View에서 내가 보이게 할 것과 보이지 않게 할 것 설정이 가능 
 
 5. Game View
-		![Game View](C:\Users\KJM\Desktop\MarkDownImage/GameView.png)		
+		![Game View](images/GameView.png)		
 
 		현재 Scene이 실제로 작동하는 모습을 보여주는 View
 		다양한 해상도 Test
 
 * Game View Toolbar
-		![GameViewToolbar](C:\Users\KJM\Desktop\MarkDownImage/GameViewToolbar.png)	
+		![GameViewToolbar](images/GameViewToolbar.png)	
 		
 		1. 게임 재생 (Ctrl + P)
 		2. 일시정지 (Ctrl + Shift + P)
