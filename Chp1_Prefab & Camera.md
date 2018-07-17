@@ -17,7 +17,6 @@
 			* Revert 기능 - 변경 사항을 취소하고 원래 Prefab 설정으로 돌리는 기능
 			* Apply 기능 - 변경 사항을 모든 Prefab에 적용시키는 기능
 
-<hr/>
 
 ## Camera
 
