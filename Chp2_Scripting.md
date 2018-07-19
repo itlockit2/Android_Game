@@ -43,7 +43,7 @@
 		기본적으로 C++의 자료형(int, float, string ....)과 같음
 		Debug.Log("Hello World");
 			-> Console view에 메세지를 보내고 싶을 때 사용하는 함수
-		Console view의 Clear on Play 시능
+		Console view의 Clear on Play 기능
 			-> Play할 때 마다 Debug.Log를 비우고 실행한 Play 결과를 출력
 
 3. 변수의 사용 범위
