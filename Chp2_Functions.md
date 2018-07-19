@@ -11,6 +11,9 @@
 	* GetKeyDown
 	* Instantiate
 	* GetComponent
+	* AddForce
+	* SetActive
+	* transform.right
 	
 	1. Debug.Log
 		
@@ -57,6 +60,22 @@
 		* GetComponent<컴포넌트 이름>()
 		* 현재 게임 오브젝트의 다른 컴포넌트를 가져오는 함수
 		* Transform이 아닌 다른 컴포넌트를 가져오기 위해선 꼭, GetComponent를 해야함
+		
+	8. AddForce
+	
+		* 물체에 힘을 가하는 함수
+		* GetComponent<Rigidbody2D>().AddForce(Vector3.up * 300f);
+		* Jump 같은 기능을 구현할 때 편리
+	
+	9. SetActive
+	
+		* 물체를 활성 / 비활성화 상태로 바꾸는 함수
+		* gameObject.SetActive(true);
+		* gameObject.SetActive(false);
+		
+	10. transform.right
+	
+		![transformright](images/transformright.png)
 
 2. 이벤트 함수
 
