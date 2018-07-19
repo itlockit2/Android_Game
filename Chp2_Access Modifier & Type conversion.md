@@ -21,8 +21,6 @@
 		* 자료형을 변환하는 것 ( 게임화면에서 점수를 보여 줄 때 int나 float를 string으로 변환해야 함 )
 		* 명시적 형변환
 			* 사용자가 직접 형변환을 해주어야 하는 것
-				float -> int
-				string -> int 
 				int -> string
 				int.ToString("형식"); -> int 부분에 정수를 넣어줌
 				string -> int
