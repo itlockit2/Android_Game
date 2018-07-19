@@ -53,7 +53,7 @@
 
 	7. GetComponent
 
-		* GetComponent<SpriteRenderer>().color = Color.red;
+		* GetComponent< SpriteRenderer >().color = Color.red;
 		* GetComponent<컴포넌트 이름>()
 		* 현재 게임 오브젝트의 다른 컴포넌트를 가져오는 함수
 		* Transform이 아닌 다른 컴포넌트를 가져오기 위해선 꼭, GetComponent를 해야함
