@@ -36,9 +36,11 @@
 		* 또한, 상수를 나누는 것도 가능
 		* 상수를 곱하거나 나누는 것은 벡터의 방향은 유지를 하되 크기를 조절할 때 많이 사용
 
-	2. 기본적인 Vector3 함수
-		![Vector3](images/Vector3.png)
 
+
+	2. 기본적인 Vector3 함수
+
+		![Vector3](images/Vector3.png)
 		* 정의되어 있지 않은 새로운 벡터를 만들 때에는 new Vector3 (x, y, z)를 통해 만들어 줌
 
 <hr/>
