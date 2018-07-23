@@ -8,7 +8,7 @@
 		* 모바일 게임의 대표적인 Interaction component
 		* Add Component나 UI 생성을 통해서 Button 생성 가능
 
-			버튼은 4가지 상태가 존재
+			-> 버튼은 4가지 상태가 존재
 			* Normal - 아무 조작을 안하는 경우
 			* Highlighted - 버튼에 마우스가 위로 올라간 경우
 			* Pressed - 버튼에 마우스를 누른 경우
