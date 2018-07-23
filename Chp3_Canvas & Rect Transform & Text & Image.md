@@ -14,14 +14,16 @@
 		* 모든 UI 요소는 Canvas 자식오브젝트
 		* UI가 그려지는 하나의 도화지와 유사 // Main Camera와는 별개임
 
-		1. Canvas Render Mode - Screen Space - Overlay
+
+			1. Canvas Render Mode : Screen Space - Overlay
 	
 		* 화면 위에 UI를 그리는 모드
 		* 카메라 비율, 해상도가 변경되면 자동으로 이에 맞춰짐
 		* Canvas의 Position을 움직일 수 없게 됨 
 		* Camera와 동떨어진 영역을 가지게 됨
 	
-		2.  Canvas Render Mode - Screen Space - Camera
+	
+			2.  Canvas Render Mode : Screen Space - Camera
 		
 		* GameView에 따라 Canvas의 크기가 변경
 		* GameView창의 크기를 줄이면 Canvas의 크기도 줄어듬
@@ -36,11 +38,12 @@
 			*  Match가 왼쪽으로 설정되어 있으면 처음 Width로 고정
 			*  Match가 오른쪽으로 설정되어 있으면 처음 Height로 고정	
 
-		3. World Space
+
+			3. World Space
 
 		* Scene에 있는 다른 Object처럼 동작하는 모드 
 	
-		4. Layout (Rect tool)
+			4. Layout (Rect tool)
 	
 		![Recttool](images/Recttool.png)
 	
@@ -93,5 +96,7 @@
 		1. Simple : 단순히 표시 
 		2. Sliced : 동영상 참조 
 		3. Tiled : Image 내부를 바둑판식 배열로 채움
-		4. Filled : 1. Fill Amount 옵션을 통해 Image내부를 채움 ( 스킬 쿨타임이나 체력 바 )
-		             2. Fill Origin 옵션을 통해 Image내부를 채우기 시작할 방향을 설정할 수 있음
+		4. Filled    
+			1. Fill Amount 옵션을 통해 Image내부를 채움 ( 스킬 쿨타임이나 체력 바 )
+			2. Fill Origin 옵션을 통해 Image내부를 채우기 시작할 방향을 설정할 수 있음
+		  
