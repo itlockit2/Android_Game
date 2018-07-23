@@ -71,7 +71,7 @@
 		* 물체의 폭과 높이
 
 	4. 앵커가 떨어져있는 경우
-		![RectTransform](images/RectTransform.png)
+		![RectTransform](images/RectTransform.PNG)
 
 3. Text
 	
