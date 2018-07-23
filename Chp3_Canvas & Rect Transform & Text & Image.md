@@ -94,7 +94,7 @@
 	* Preserve Aspect : Image가 잘리거나 하지 않고 비율이 유지된 채로 Image가 표시 됨
 	* Image Type
 		1. Simple : 단순히 표시 
-		2. Sliced : 동영상 참조 
+		2. Sliced :  참조 
 		3. Tiled : Image 내부를 바둑판식 배열로 채움
 		4. Filled    
 			1. Fill Amount 옵션을 통해 Image내부를 채움 ( 스킬 쿨타임이나 체력 바 )
