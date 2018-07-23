@@ -8,17 +8,17 @@
 		* 모바일 게임의 대표적인 Interaction component
 		* Add Component나 UI 생성을 통해서 Button 생성 가능
 
-		버튼은 4가지 상태가 존재
-		Normal - 아무 조작을 안하는 경우
-		Highlighted - 버튼에 마우스가 위로 올라간 경우
-		Pressed - 버튼에 마우스를 누른 경우
-		Disabled - 버튼을 더이상 사용할 수 없는 경우 
+			버튼은 4가지 상태가 존재
+			* Normal - 아무 조작을 안하는 경우
+			* Highlighted - 버튼에 마우스가 위로 올라간 경우
+			* Pressed - 버튼에 마우스를 누른 경우
+			* Disabled - 버튼을 더이상 사용할 수 없는 경우 
 
 		* Button의 Transition - 버튼의 상태전환을 어떻게 표시할 것인가 ? 
-			1. None : 각 상태마다 변화를 전혀 표시하지 않음
-			2. Color Tint : 기본값이며 각 상태마다 색깔을 약간씩 변형시킴 
-			3. Sprite Swap : 상태마다 Image로 표시를 가능케 해줌	
-			4. Interactable : 상호작용 여부, false(체크 해제)라면 disabled 상태
+			* None : 각 상태마다 변화를 전혀 표시하지 않음
+			* Color Tint : 기본값이며 각 상태마다 색깔을 약간씩 변형시킴 
+			* Sprite Swap : 상태마다 Image로 표시를 가능케 해줌	
+			* Interactable : 상호작용 여부, false(체크 해제)라면 disabled 상태
 	
 		* C# Script로 UI와 관련된 Script를 작성할 땐 using UnityEngine.UI; 를 항상 사용해주어야 함
 
