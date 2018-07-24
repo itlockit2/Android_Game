@@ -9,10 +9,12 @@
 			* 상태전환 대기 
 			* 우리가 만든 모든 State가 특정 조건을 만족했을 때 Transition이 향하는 State로 이동 
 		2. Entry - 맨 처음 시작할 Animation State를 지정해주는 역할
-		3. Exit - Animation 종료 상태를 지정 // 다시 Entry로 돌아오기 위해 사용
+		3. Exit 
+			* Animation 종료 상태를 지정 
+			* 다시 Entry로 돌아오기 위해 사용
 		
 	* Animator Inspector 
-		1. Speed - Clip을 재생하는 속도
+		* Speed - Clip을 재생하는 속도
 	
 	* State를 더블 클릭하면 하나의 Clip에 대한 3가지의 Inspector 요소 출력
 		* Loop Time - Clip을 반복해서 재생할 것인가의 여부
@@ -41,7 +43,6 @@
 	* SetBool
 	* SetTrigger
 	
-	* GetComponent<Animator>().GetFloat("Hp_f"); 
-	* GetComponent<Animator>().SetFloat("Hp_f", 100); 
-	* 상황에 따라 여러가지 Type을 만들 수 있음
+	* GetComponent< Animator >().GetFloat("Hp_f"); 
+	* GetComponent< Animator >().SetFloat("Hp_f", 100); 등등 
 
