@@ -18,14 +18,13 @@
 2. Animation Clip
 		* 하나의 동작을 저장하고 있는 Asset
 	
-		![CreateNewClip](images/CreateNewClip.PNG)
+	![CreateNewClip](images/CreateNewClip.PNG)
 
-		![Frame](images/Frame.PNG)
+	![Frame](images/Frame.PNG)
 		
-		![Information](images/Information.PNG)
+	![Information](images/Information.PNG)
 
-		![NowFrame](images/NowFrame.PNG)
-	
-<hr/ >
+	![NowFrame](images/NowFrame.PNG)
+
 
 
