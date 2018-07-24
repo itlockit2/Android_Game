@@ -11,7 +11,7 @@
 		* Animator State
 			![AnimatorState](images/AnimatorState.png)
 		* Animator Transition
-			![AnimatorTransition](images/ AnimatorTransition.png)
+			![AnimatorTransition](images/AnimatorTransition.png)
 		* Animation State의 Inspector 
 			* Motion -> Animation Clip을 지정해 줄 수 있음
 
