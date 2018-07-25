@@ -51,10 +51,10 @@
 	
 3. Audio Listener
 
-		* Main Camera에 자동으로 포함되어 있음
-		![AudioListener](images/AudioListener.PNG)
-		* 게임 캐릭터에도 적용이 가능 - EX) 캐릭터가 가까워지면 소리가 증가 OR 멀어지면 감소
-		* 3D Sound Settings에서 거리에 따라 소리를 조절하는 Setting이 가능
-		* 거리에 따라 소리를 조절할 경우에는 Spatial Blend를 1로 해야 함 		
+	* Main Camera에 자동으로 포함되어 있음
+	![AudioListener](images/AudioListener.PNG)
+	* 게임 캐릭터에도 적용이 가능 - EX) 캐릭터가 가까워지면 소리가 증가 OR 멀어지면 감소
+	* 3D Sound Settings에서 거리에 따라 소리를 조절하는 Setting이 가능
+	* 거리에 따라 소리를 조절할 경우에는 Spatial Blend를 1로 해야 함 		
 
 
