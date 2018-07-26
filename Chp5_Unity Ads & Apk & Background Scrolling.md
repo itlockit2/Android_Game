@@ -25,7 +25,7 @@
 	
 	* Window -> General -> Services를 통해 설정 가능
 	* 광고와 관련하여선 스크립트에 using UnityEngine.Advertisements; 사용해주어야 함 
-	* 광고를 설정 후 게임을 실행하면 (ProjectID, Test 광고인지의 여부)로 초기화가 실행 // Console창에 출력
+	* 광고를 설정 후 게임을 실행하면 (ProjectID, Test 광고인지의 여부)로 초기화가 실행 // Console창에 출력 됨
 
 
 2. Apk
